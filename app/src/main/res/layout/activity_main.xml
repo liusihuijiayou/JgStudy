@@ -16,9 +16,7 @@
         android:numStars="5"
         android:rating="0.0"
         android:isIndicator="false"
-        android:theme="@style/RatingBar"
-
-         />
+        android:theme="@style/RatingBar" />
 
     <Button
         android:id="@+id/button1"
@@ -26,6 +24,7 @@
         android:layout_height="wrap_content"
         android:text="提交"
         android:onClick="jump"/>
+
 
 
 
